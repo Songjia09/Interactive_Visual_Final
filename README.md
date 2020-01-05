@@ -15,3 +15,5 @@
 - 交互界面是否美观、得体（用plotly、pyecharts、网页CSS样式等渠道实现的都包含在内）
 - 整体数据产品/数据故事是否有洞见
 - 数据清洗和收集难度，数据集丰富程度
+## pythonanywhere
+- [pythonanywhere](http://liuziqi.pythonanywhere.com/)
